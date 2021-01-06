@@ -1,0 +1,9 @@
+Model\Cast.class
+Model\Model.class
+Controller\Controller.class
+View\MainFrame.class
+View\View.class
+App.class
+Model\Movie.class
+Model\Actor.class
+Model\MovieData.class

@@ -1,0 +1,8 @@
+TreeSet
+Thinking back to 210, I remembered the importance of minimizing many-to-many relationships when storing data. 
+For this reason, I want to create a TreeSet which holds associations between Movie IDs and Actor IDs. 
+TreeSets can add, remove, and search in logarithmic time, which is very helpful if a movie object is called to be displayed; 
+all associated actor IDs with that movie ID can be acquired quickly.
+
+
+MovieActorData is encapsulating the TreeSet collection.
